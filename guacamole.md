@@ -1,7 +1,7 @@
 # Ingredients
 
 - avaocado
-- lemon
+- lime
 - salt
 
 # Instructions
